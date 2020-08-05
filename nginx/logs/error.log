@@ -1,0 +1,4 @@
+2020/08/05 15:25:08 [error] 27#27: *1 open() "/var/www/dswa/favicon.ico" failed (2: No such file or directory), client: 10.96.32.12, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.108.204.52:8888"
+2020/08/05 15:25:11 [error] 27#27: *3 open() "/var/www/dswa/favicon.ico" failed (2: No such file or directory), client: 10.96.32.12, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.108.204.52:8888"
+2020/08/05 15:32:32 [error] 27#27: *1 open() "/var/www/dswa/favicon.ico" failed (2: No such file or directory), client: 10.96.32.12, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.108.204.52:8888"
+2020/08/05 15:33:10 [error] 27#27: *6 open() "/var/www/dswa/favicon.ico" failed (2: No such file or directory), client: 10.96.44.211, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.108.204.52:8888", referrer: "http://10.108.204.52:8888/"
